@@ -35,11 +35,3 @@ Welcoming contributions to improve the app! To contribute:
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Contact
-
-If you have any questions or suggestions, feel free to open an issue or contact me at ovonwn@gmail.com.
-
----
-Thank you for trying out the AI Custom Character Chat App! Hope you enjoy building and interacting with your AI-powered chatbots.
----
